@@ -1,1 +1,1 @@
-https://github.com/PedroGomes-phgr/agendar_testdrive_poo/issues
+https://github.com/PedroGomes-phgr/agendar_testdrive_poo/issues/
